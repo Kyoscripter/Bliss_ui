@@ -814,7 +814,7 @@ Library.Sections.__index = Library.Sections
 
 		local Inline = Instance.new("Frame")
 		Inline.Name = "Inline"
-		Inline.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+		Inline.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
 		Inline.BorderColor3 = Color3.fromRGB(0, 0, 0)
 		Inline.BorderSizePixel = 0
 		Inline.Position = UDim2.new(0, 1, 0, 1)
@@ -1221,7 +1221,7 @@ end)
 
 			local Frame = Instance.new("Frame")
 			Frame.Name = "Frame"
-			Frame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+			Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 			Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 			Frame.BorderSizePixel = 0
 			Frame.Position = UDim2.new(0, 1, 0, 2)
@@ -4183,3 +4183,4 @@ end)
 end;
 
 return Library
+
