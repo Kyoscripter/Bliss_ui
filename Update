@@ -323,7 +323,7 @@ Library.Sections.__index = Library.Sections
 
 			local IconInline = Instance.new("Frame")
 			IconInline.Name = "IconInline"
-			IconInline.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+			IconInline.BackgroundColor3 = Color3.fromRGB(255, 105, 255)
 			IconInline.BorderColor3 = Color3.fromRGB(0, 0, 0)
 			IconInline.BorderSizePixel = 0
 			IconInline.BackgroundTransparency = 1
@@ -3591,7 +3591,7 @@ end)
 
 			local Frame = Instance.new("Frame")
 			Frame.Name = "Frame"
-			Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+			Frame.BackgroundColor3 = Color3.fromRGB(255, 105, 255)
 			Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 			Frame.BorderSizePixel = 0
 			Frame.Position = UDim2.new(0, 1, 0, 1)
